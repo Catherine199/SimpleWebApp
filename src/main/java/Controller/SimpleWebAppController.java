@@ -27,4 +27,8 @@ public class SimpleWebAppController {
         return "index";
     }
 
+    public void mysecondCommit() {
+
+    }
+
 }
